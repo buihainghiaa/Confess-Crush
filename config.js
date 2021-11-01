@@ -1,7 +1,7 @@
 const CONFIG = {
     titleWeb: "webgiday",
     introTitle: 'cHao eM',
-    introDesc: `cOn gA bUi miNh qUang`,
+    introDesc: `cOn gA  bUi miNh qUang`,
     btnIntro: '^^Haha^^',
     title: 'Em có thấy gì không',
     desc: 'haha ',
