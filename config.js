@@ -14,6 +14,5 @@ const CONFIG = {
 	    btnReply: 'hihi ',
 	    reply: 'chuẩn bị dầu ăn thôi hihi <33333333',
 	    mess: 'hẹn ae ngày 0 xa',
-	    
 	}
 
