@@ -10,6 +10,6 @@ const CONFIG = {
     question: 'Ăn cứt không em <3',
     btnReply: 'hihi',
     reply: 'ngon lắm luôn anh ơi <33333333',
-    mess: 'hahshsad',
+    mess: 'hashshsad',
     
 }
